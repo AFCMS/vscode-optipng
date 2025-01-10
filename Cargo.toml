@@ -7,7 +7,7 @@ edition = "2021"
 crate-type = ["cdylib"]
 
 [dependencies]
-wit-bindgen = "0.36.0"
+wit-bindgen = "0.37.0"
 
 [dependencies.oxipng]
 version = "9.1.3"
